@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Web Socket Playground</string>
+    <string name="btn_send">Send</string>
 </resources>
