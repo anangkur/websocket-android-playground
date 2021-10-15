@@ -24,7 +24,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="img/android-websocket.png" alt="Logo" width="80" height="80">
+    <img src="img/android-websocket.png" alt="Logo" width="80">
   </a>
   <h3 align="center">Basic Web Submission</h3>
 
@@ -32,7 +32,7 @@
     This is a playground project of me implementing websocket in android using <a href="https://github.com/Tinder/Scarlet">Scarlet<a/>
   </p>
   
-  <img src="src/example.gif" width="400" alt="sample" title="sample" align="right" />
+  <img src="img/example.gif" width="400" alt="sample" title="sample" align="right" />
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
